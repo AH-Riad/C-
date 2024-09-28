@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1700217140 source:f:\c++\4thproject\main.cpp
+	<iostream>
+	"constantobject.h"
+
+1700217140 f:\c++\4thproject\constantobject.h
+
+1700217212 source:f:\c++\4thproject\constantobject.cpp
+	"constantobject.h"
+	<iostream>
+

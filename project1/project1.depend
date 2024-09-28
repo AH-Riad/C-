@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1700022451 source:f:\c++\project1\main.cpp
+	<iostream>
+	"project1.h"
+
+1700022885 f:\c++\project1\project1.h
+
+1700022900 source:f:\c++\project1\project1.cpp
+	"project1.h"
+	<iostream>
+

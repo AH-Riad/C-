@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1700202290 source:f:\c++\destructor\main.cpp
+	<iostream>
+	"destructor.h"
+	"destructor.h"
+
+1700202290 f:\c++\destructor\destructor.h
+
+1700202290 source:f:\c++\destructor\destructor.cpp
+	"destructor.h"
+	<iostream>
+	"destructor.h"
+
